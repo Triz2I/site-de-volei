@@ -57,7 +57,7 @@ section {
 }
 
 .display-4 {
-  text-shadow: -5px 5px var(--azul);
+  text-shadow: -5px 5px var(--preto);
 }
 
 #SpikePro {
@@ -79,7 +79,7 @@ section {
 h2 {
   font-family: 'Lemon', serif;
   font-size: 2.5em;
-  color: var(--azul);
+  color: var(--preto);
 }
 
 #galeria {
