@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&family=Lemon&display=swap');
 
 :root {
-  --laranja: #280bcc;
+  --azul: #0124ec;
   --preto: #000;
   --branco: #fff;
   --amarelo: #ffd700;
@@ -20,7 +20,7 @@ section {
 }
 
 .nav-link {
-  color: #280bcc;
+  color: #0124ec;
   font-weight: 600;
 }
 
@@ -49,7 +49,7 @@ section {
 }
 
 .botao-inicio {
-  background: var(--laranja);
+  background: var(--azul);
   border-radius: 30px;
   border: none;
   width: 14em;
@@ -57,7 +57,7 @@ section {
 }
 
 .display-4 {
-  text-shadow: -5px 5px var(--laranja);
+  text-shadow: -5px 5px var(--azul);
 }
 
 #SpikePro {
@@ -79,7 +79,7 @@ section {
 h2 {
   font-family: 'Lemon', serif;
   font-size: 2.5em;
-  color: var(--laranja);
+  color: var(--azul);
 }
 
 #galeria {
@@ -107,7 +107,7 @@ h2 {
 .alto-contraste .formulario button,
 .alto-contraste .btn-primary,
 .botao-inicio {
-  background: #CB6D43;
+  background: #0124ec;
   border: none;
   font-weight: bold;
 }
