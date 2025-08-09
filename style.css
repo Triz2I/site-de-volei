@@ -64,7 +64,7 @@ section {
   position: relative;
   padding-top: 5rem;
   margin: 3rem 0;
-  background: url('img/flor.png') top right no-repeat, url('img/flor-esquerda.png') bottom left no-repeat;
+  background: url('img/bola-canto.jpg') top right no-repeat, url('img/bola-canto-esquerda.jpg') bottom left no-repeat;
   background-size: 180px;
 }
 
