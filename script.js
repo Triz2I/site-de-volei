@@ -22,6 +22,6 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // ScrollReveal
-['#inicio', '#', '#galeria', '#contato'].forEach(id =>
+['#inicio', '#', '#galeria',].forEach(id =>
   ScrollReveal().reveal(id, { delay: 500 })
 );
